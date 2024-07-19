@@ -50,7 +50,7 @@ export default function App() {
   return (
     <>
       <Canvas camera={{ position: [0, 0, -0.2], near: 0.025 }}>
-        <Environment files="/img/white.jpg" background />
+        <Environment files="/img/bone.jpeg" background />
         <group>
           <Model url={Models[model]} />
         </group>

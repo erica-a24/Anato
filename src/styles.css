@@ -2,8 +2,8 @@ html,
 body,
 #root {
   height: 100%;
-  margin: 0;
-  background: #e4dede;
+  margin: auto;
+  background: black;
 }
 
 #info {
@@ -12,7 +12,7 @@ body,
   right: 295px;
   text-align: right;
   background: #181c20;
-  color: #8c92a4;
+  color: #f9fbff;
   padding: 7px 10px;
   border-radius: 10px;
   font-size: 17px;
